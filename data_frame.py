@@ -1,6 +1,3 @@
-# -*- coding: utf-8 -*-
-
-
 # creating dataframe
 import pandas as pd
 import numpy as np
