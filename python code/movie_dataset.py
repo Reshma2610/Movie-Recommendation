@@ -20,9 +20,6 @@ files.upload()
 # unzipping
 !unzip tmdb-movie-metadata.zip
 
-# you can download the same files from github repo as well
-# uncomment the below command if you are unable to download the files from kaggle.
-# !git clone https://github.com/procodingclass/kaggle-movie-data.git
 
 # creating dataframe
 import pandas as pd
